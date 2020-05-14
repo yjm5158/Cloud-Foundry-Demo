@@ -1,6 +1,6 @@
 applications:
   - path: .
-    name: simple-toolchain-20200514074620693
+    name: CloudTrainingDemo
     environment_json: {}
     memory: 256M
     instances: 1
