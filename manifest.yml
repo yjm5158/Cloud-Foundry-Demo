@@ -1,0 +1,8 @@
+applications:
+  - path: .
+    name: simple-toolchain-20200514074620693
+    environment_json: {}
+    memory: 256M
+    instances: 1
+    disk_quota: 1024M
+    services: []
